@@ -1,1 +1,13 @@
-
+{
+    "name": "ThetaCloud Organization Workflow",
+    "description": "Theta Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go", "Python"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
