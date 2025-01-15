@@ -3,7 +3,7 @@
     "description": "Theta Organization CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Go", "Python"
+        "Continuous integration"
     ],
     "filePatterns": [
         "package.json$",
